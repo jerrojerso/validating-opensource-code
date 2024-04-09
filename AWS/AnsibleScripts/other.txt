@@ -1,0 +1,1 @@
+Folder to place ansible scripts for installations on the instance created by terraform.
